@@ -6,3 +6,34 @@
     --cor4: #FCBF49;
     --cor5: #EAE2B7;
 }
+
+.container{
+    display: flex;
+    
+}
+
+nav{
+    height: 10vh;
+    width: 100%;
+    background-color: #FCBF49;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav div{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+nav div img{
+    width: 5%;
+    margin-left: 5px;
+}
+
+.nav2{
+    width: 30%;
+    height: 100%;
+    background-color: #D62828;
+}
