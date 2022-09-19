@@ -139,3 +139,7 @@ nav ul li a:active {
     width: 80%;
     padding-left: 30px;
 }
+
+.pseudo_nav h1{
+    color: var(--cor1);
+}
